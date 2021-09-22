@@ -16,7 +16,7 @@ h1, h2, h3, h4, p, a {
     top: 0;
     bottom: 0;
     right: 0;
-    background-color: rgb(50,50,50);
+    background-color: rgb(255,192,203);
     background-clip: padding-box;
     border: 2px solid transparent;
     border-radius: 10px;
@@ -54,7 +54,7 @@ h1, h2, h3, h4, p, a {
 
 
 body {
-    background-color: #141414;
+    background-color: #FFFFF;
 }
 
 #ducxyImg{
@@ -103,7 +103,7 @@ center{
     border-radius: 10px;
     margin: 10px;
     max-width: 350px;
-    background-color: rgb(34, 34, 34);
+    background-color: rgb(255,192,203);
     position: relative;
     transition: all .1s ease-in-out;
     display: inline-flex;
